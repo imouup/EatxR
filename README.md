@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://imouup.github.io/eatxr"><img src="https://cdn.jsdelivr.net/gh/imouup/pico/picxr.jpg" width="100" height="100" alt="EatKano"></a>
+  <a href="https://imouup.github.io/EatxR"><img src="https://cdn.jsdelivr.net/gh/imouup/pico/picxr.jpg" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
@@ -14,9 +14,9 @@ _🦌 网页小游戏 🥛_
 
 小游戏：吃掉小R
 
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Page](https://arcxingye.github.io/EatKano/index.html)
+
+
+[Github Page](https://imouup.github.io/EatxR/index.html)
 
 ## 可选功能
 
