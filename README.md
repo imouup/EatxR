@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://imouup.github.io/EatxR"><img src="https://cdn.jsdelivr.net/gh/imouup/pico/picxr.jpg" width="100" height="100" alt="EatKano"></a>
+  <a href="https://imouup.github.io/EatxR"><img src="https://cdn.jsdelivr.net/gh/imouup/pico/picavatar.png" width="100" height="100" alt="i"><img src="https://cdn.jsdelivr.net/gh/imouup/pico/picxr.jpg" width="100" height="100" alt="r"></a>
 </p>
 <div align="center">
 
